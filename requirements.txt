@@ -1,0 +1,6 @@
+# Abhängigkeiten für deinen Discord‑Würfelbot
+
+# Installiere sie mit:  pip install -r requirements.txt
+
+discord.py==2.5.2
+python-dotenv==1.1.0
