@@ -11,6 +11,5 @@ This is a simple discord bot. It enables users die roll a dice. Use either !roll
 4. You need a file called .env with a line it like this: DISCORD_TOKEN=<your token>
 5. Run: `python app.py`
 
-
 ## License
 Apache License 2.0

@@ -10,5 +10,3 @@ dist/
 *.bak
 *.log
 *.tmp
-.env*
-.gitignore~
